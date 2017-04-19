@@ -4,7 +4,7 @@ const DeployPluginBase = require('ember-cli-deploy-plugin')
 const Redis = require('./lib/redis')
 
 module.exports = {
-  name: 'ember-cli-deploy-redis-publish',
+  name: 'ember-cli-deploy-redis-publish-revision',
   createDeployPlugin: function (options) {
     const DeployPlugin = DeployPluginBase.extend({
       name: options.name,

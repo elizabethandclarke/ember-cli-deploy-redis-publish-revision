@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-deploy-redis-publish",
+  "name": "ember-cli-deploy-redis-publish-revision",
   "version": "0.0.1",
   "description": "Publish to a redis channel a notification after a deployment have been activated",
   "keywords": [
@@ -18,7 +18,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "https://github.com/sescobb27/ember-cli-deploy-redis-publish",
+  "repository": "https://github.com/sescobb27/ember-cli-deploy-redis-publish-revision",
   "scripts": {
     "build": "ember build",
     "start": "ember server",

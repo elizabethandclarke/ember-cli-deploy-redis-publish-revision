@@ -1,11 +1,11 @@
-# ember-cli-deploy-redis-publish
+# ember-cli-deploy-redis-publish-revision
 
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd ember-cli-deploy-redis-publish`
+* `cd  ember-cli-deploy-redis-publish-revision`
 * `npm install`
 * `bower install`
 
