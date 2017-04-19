@@ -1,18 +1,24 @@
 {
   "name": "ember-cli-deploy-redis-publish",
   "version": "0.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Publish to a redis channel a notification after a deployment have been activated",
   "keywords": [
     "ember-addon",
     "ember-cli-deploy-plugin"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Simon Escobar <sescobb27@gmail.com>",
+  "contributors": [
+    {
+      "name": "Nicolle Jimenez",
+      "email": "nicolle.jimenez91@gmail.com"
+    }
+  ],
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/sescobb27/ember-cli-deploy-redis-publish",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
